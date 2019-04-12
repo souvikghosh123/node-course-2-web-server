@@ -1,5 +1,4 @@
-
-
+console.log('Welcome')
 console.log('Client side Java Script file is loaded')
 
 // fetch('http://puzzle.mead.io/puzzle').then(function(response) {
